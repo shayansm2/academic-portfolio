@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-06-17-hybrid-nsga2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-17-06
+date: 2021-06-17
 venue: 'Rairo Operations Research'
 paperurl: 'https://www.rairo-ro.org/articles/ro/abs/2021/04/ro200482/ro200482.html'
 citation: 'Moghadam, S. S., Aghsami, A., & Rabbani, M. (2021). A hybrid NSGA-II algorithm for the closed-loop supply chain network design in e-commerce. RAIRO-Operations Research, 55(3), 1643-1674.'
