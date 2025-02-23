@@ -2,7 +2,7 @@
 title: "A hybrid NSGA-II algorithm for the closed-loop supply chain network design in e-commerce"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-17-06-hybrid-nsga2
+permalink: /publication/2021-06-17-hybrid-nsga2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-17-06
 venue: 'Rairo Operations Research'
