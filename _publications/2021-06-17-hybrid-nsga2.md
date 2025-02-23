@@ -3,7 +3,7 @@ title: "A hybrid NSGA-II algorithm for the closed-loop supply chain network desi
 collection: publications
 category: manuscripts
 permalink: /publication/2021-06-17-hybrid-nsga2
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A multi-objective mixed integer nonlinear programming model is proposed to design an efficient closed-loop supply chain network in e-commerce that optimizes both business profits and customer satisfaction.'
 date: 2021-06-17
 venue: 'Rairo Operations Research'
 paperurl: 'https://www.rairo-ro.org/articles/ro/abs/2021/04/ro200482/ro200482.html'
