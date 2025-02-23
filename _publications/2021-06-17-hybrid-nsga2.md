@@ -7,6 +7,7 @@ excerpt: 'A multi-objective mixed integer nonlinear programming model is propose
 date: 2021-06-17
 venue: 'Rairo Operations Research'
 paperurl: 'https://www.rairo-ro.org/articles/ro/abs/2021/04/ro200482/ro200482.html'
+link: 'https://www.rairo-ro.org/articles/ro/abs/2021/04/ro200482/ro200482.html'
 citation: 'Moghadam, S. S., Aghsami, A., & Rabbani, M. (2021). A hybrid NSGA-II algorithm for the closed-loop supply chain network design in e-commerce. RAIRO-Operations Research, 55(3), 1643-1674.'
 ---
 
