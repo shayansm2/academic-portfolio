@@ -77,21 +77,13 @@ Talks
   
 Teaching
 ======
-**Teaching Assistant** of *Scheduling Theory* course at University of Tehran *(Sep 2020-Jan 2021)*
-- Prepared lectures and teaching materials for the graduate students’ class.
-
-**Teaching Assistant** of _Probability Theory_ course at University of Tehran _(Sep 2018-Jan 2019)_
-
-- Conducted weekly tutorials for classes of undergraduate students.
-
-**Member of Industrial Engineering Scientific Association** (UTIESA) at University of Tehran _(Oct 2016–Aug 2018)_
-
-- Responsible for arranging visits from industrial units and organizing additional workshops and training courses
-
-**Teaching Assistant** of _Microeconomics_ course at University of Tehran _(Sep 2017-Jan 2018)_
-
-- Guiding students in their projects, evaluating and grading projects.
-
-**Teaching Assistant** of _Computer Programming in C++_ course at University of Tehran _(Sep 2016-Jan 2017)_
-
-- Tutored undergraduate students and graded assignments and quizzes.
+- Teaching Assistant** of *Scheduling Theory* course at University of Tehran *(Sep 2020-Jan 2021)*
+  - Prepared lectures and teaching materials for the graduate students’ class.
+- Teaching Assistant** of _Probability Theory_ course at University of Tehran _(Sep 2018-Jan 2019)_
+  - Conducted weekly tutorials for classes of undergraduate students.
+- Member of Industrial Engineering Scientific Association** (UTIESA) at University of Tehran _(Oct 2016–Aug 2018)_
+  - Responsible for arranging visits from industrial units and organizing additional workshops and training courses
+- Teaching Assistant** of _Microeconomics_ course at University of Tehran _(Sep 2017-Jan 2018)_
+  - Guiding students in their projects, evaluating and grading projects.
+- Teaching Assistant** of _Computer Programming in C++_ course at University of Tehran _(Sep 2016-Jan 2017)_
+  - Tutored undergraduate students and graded assignments and quizzes.
