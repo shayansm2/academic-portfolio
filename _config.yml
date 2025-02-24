@@ -22,7 +22,7 @@ repository: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "me1.png"
+  avatar: "me1.jpg"
   name: "Shayan Shafiee Moghadam"
   pronouns: # example: "she/her"
   bio: "A graduate in System Optimization from the Industrial Engineering College, University of Tehran, and a Software Engineer leveraging extensive experience to develop scalable solutions and enhance system performance."
