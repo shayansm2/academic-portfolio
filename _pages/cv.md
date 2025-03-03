@@ -54,30 +54,9 @@ TODO
   - Duties included: Tagging issues
   - Supervisor: Professor Git
 
-# Skills
+# Teaching & Research Experience
 
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
-
-# Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching & Research Experience
-======
-- **Teaching Assistant** of *Scheduling Theory* course at University of Tehran *(Sep 2020-Jan 2021)*
+- **Teaching Assistant** of _Scheduling Theory_ course at University of Tehran _(Sep 2020-Jan 2021)_
   - Prepared lectures and teaching materials for the graduate students’ class.
 - **Teaching Assistant** of _Probability Theory_ course at University of Tehran _(Sep 2018-Jan 2019)_
   - Conducted weekly tutorials for classes of undergraduate students.
@@ -87,3 +66,33 @@ Teaching & Research Experience
   - Guiding students in their projects, evaluating and grading projects.
 - **Teaching Assistant** of _Computer Programming in C++_ course at University of Tehran _(Sep 2016-Jan 2017)_
   - Tutored undergraduate students and graded assignments and quizzes.
+
+# Publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+# Skills
+
+- **Programming Languages**: Python | PHP | Golang | SQL | Javascript | Java
+- **Python Data packages**: Numpy | Pandas | Matplotlib | Scikit-learn | XGBoost
+- **Databases and Data Storage**: PostgreSQL | MySQL | Redis | Elastic Search | Apache Kafka
+- **Web Frameworks**: Django | Flask | React | Laravel | Symfony | Gin | Echo
+- **Tools & Technologies**: Linux | Git | Docker | Kubernetes | GraphQL | ELK | Prometheus
+- **Data Analysis and Optimization Tools**: PowerBI | GAMS | MATLAB
+- **Languages**: English (Fluent: TOEFL 101 & IELTS 7.5) | Persian (Native) | Dutch (Elementary)
+
+# Certificates
+
+- **[Machine Learning](https://certificate.datatalks.club/ml-zoomcamp/2023/3481f400d17ea5bdcaed692c4709d6b657a588e2.pdf)** (DataTalksClub)
+- **[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/4VJK5VNUJFKS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)** (Coursera)
+- **[Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/verify/BB5PV5BQUS68?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)** (Coursera)
+- **[Data Structure and Algorithms](https://quera.org/media/public/quera_certificate/f8df1a6cae9941449b2d6c0f206ff8bb.jpg)** (Quera)
+- **[Data Engineering](https://certificate.datatalks.club/dezoomcamp/2024/3481f400d17ea5bdcaed692c4709d6b657a588e2.pdf)** (DataTalksClub)
+- **[Golang](https://www.coursera.org/account/accomplishments/verify/NYR3QBYLTVUW?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android)** (Coursera)
+- **[Golang](https://quera.org/media/public/quera_certificate/308b9b83401844eebc5f5f979530c851.jpg)** (Quera)
+- **[Linux](https://quera.org/media/public/quera_certificate/057908bf78d341e5a6c31d3cf2d2687f.jpg)** (Quera)
+- **[Temporal 101](https://ibb.co/JyL4jMG)** (Temporal Technologies)
+- **[DBT](https://www.credential.net/c7417459-3a44-41cc-8121-a9526598d224#acc.Sx7p14wE)** (dbt Labs)
+- **[Laravel](https://quera.org/media/public/quera_certificate/6c2700964b7e4b6dbb280b328fa5a4f1.jpg)** (Quera)
