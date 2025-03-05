@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tech Career Explorer"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://github.com/shayansm2/tech-career-explorer/blob/main/statics/project_demo.png'>"
 collection: portfolio
+link: https://github.com/shayansm2/tech-career-explorer
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, I develop an end-to-end solution to find and analyse the current tech job positions from famous sites like linkedin and glassdoor. I build a pipeline to crawl and extract job data from these sites, process and model the data before finally visualising the results in a metabase dashboard.
