@@ -1,8 +1,8 @@
 ---
-title: "Tech Career Explorer"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://github.com/shayansm2/tech-career-explorer/blob/main/statics/project_demo.png'>"
+title: "Tech Career Explorer: Data-Driven Insights for Tech Industry Careers"
+excerpt: "A web-based tool for analyzing and visualizing tech career trends.<br/><img src='/images/dez1.png'>"
 collection: portfolio
 link: https://github.com/shayansm2/tech-career-explorer
 ---
 
-In this project, I develop an end-to-end solution to find and analyse the current tech job positions from famous sites like linkedin and glassdoor. I build a pipeline to crawl and extract job data from these sites, process and model the data before finally visualising the results in a metabase dashboard.
+This project utilizes data analysis, data engineering, and workflow automation tools such as DBT, PostgreSQL, Metabase and mage-ai to create an interactive dashboard. The platform visualizes job trends, salaries, and skill requirements, demonstrating the application of data-driven solutions for actionable insights.
