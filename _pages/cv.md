@@ -75,13 +75,19 @@ TODO
 
 # Skills
 
-- **Programming Languages**: | Python | PHP | Golang | SQL | Javascript | Java
-- **Python Data packages**: | Numpy | Pandas | Matplotlib | Scikit-learn | XGBoost
-- **Databases and Data Storage**: | PostgreSQL | MySQL | Redis | Elastic Search | Apache Kafka
-- **Web Frameworks**: | Django | Flask | React | Laravel | Symfony | Gin | Echo
-- **Tools & Technologies**: | Linux | Git | Docker | Kubernetes | GraphQL | ELK | Prometheus
-- **Data Analysis and Optimization Tools**: | PowerBI | GAMS | MATLAB
-- **Languages**: | English (Fluent: TOEFL 101 & IELTS 7.5) | Persian (Native) | Dutch (Elementary)
+**Programming Languages**: | Python | PHP | Golang | SQL | Javascript | Java
+
+**Python Data packages**: | Numpy | Pandas | Matplotlib | Scikit-learn | XGBoost
+
+**Databases and Data Storage**: | PostgreSQL | MySQL | Redis | Elastic Search | Apache Kafka
+
+**Web Frameworks**: | Django | Flask | React | Laravel | Symfony | Gin | Echo
+
+**Tools & Technologies**: | Linux | Git | Docker | Kubernetes | GraphQL | ELK | Prometheus
+
+**Data Analysis and Optimization Tools**: | PowerBI | GAMS | MATLAB
+
+**Languages**: | English (Fluent: TOEFL 101 & IELTS 7.5) | Persian (Native) | Dutch (Elementary)
 
 # Certificates
 
