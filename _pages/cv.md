@@ -35,24 +35,45 @@ redirect_from:
 
 # Work experience
 
-TODO
+### Software Engineer at Hamravesh Cloud
 
-- Spring 2024: Academic Pages Collaborator
+##### Aug 2024 - Present
 
-  - GitHub University
-  - Duties includes: Updates and improvements to template
-  - Supervisor: The Users
+- Developed the core billing and pricing system for a backup service, leveraging Django for API implementation and React for frontend redesign, driving a monthly revenue of 300 million tomans.
+- Designed and implemented two backup workflows using Temporal for snapshot migration and garbage collection, increasing backup capacity by 20% without additional resource costs.
 
-- Fall 2015: Research Assistant
+### Senior Software Engineer at Digikala.com
 
-  - GitHub University
-  - Duties included: Merging pull requests
-  - Supervisor: Professor Hub
+##### Oct 2022 - Jul 2024
 
-- Summer 2015: Research Assistant
-  - GitHub University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
+- Drove the design, architecture, and implementation of a "Checkout as a Service" platform, enabling diverse sales options such as e-gift cards, fresh goods, cheque payments, and coupon usage, leading to a 13% increase in total sales.
+- Architected the centralized order management service using temporal durable workflows, enabling seamless integration of business partners into the core system.
+- Architected and developed the user subscriptions microservice, seamlessly migrating subscription logic from the legacy codebase to the new microservice architecture, resulting in faster development and deployment speeds.
+- Integrated the existing codebase with the GrowthBook platform for A/B testing and feature flagging, optimizing performance to handle high traffic volumes and eliminating GrowthBook as a bottleneck for user requests, enabling marketing and user research teams to run 4x more A/B tests.
+
+### Software Engineer at Digikala.com
+
+##### Apr 2021 - Oct 2022
+
+- Designed, implemented, and launched the backend of a B2B sales site using a Symfony-based framework, enabling seamless sales transactions for companies. This initiative introduced a new B2B business line alongside the existing B2C model, contributing 5% to yearly total sales and expanding the customer base by 10% within the first year.
+- Developed a PHP Snowplow SDK to track user activities and transmit events to the big data team, improving data accuracy and providing actionable insights for big data and marketing teams to drive decision-making.
+- Built and deployed a new cashback system for Prime users, enhancing user loyalty and driving a 30% increase in repeat purchases among Prime members.
+- Developed a Python framework for generating reports and analytics from Jira data, leveraging Python data pipelines, PostgreSQL, and DBT. This automation streamlined Scrum Master tasks, reducing the team’s dependency on one full-time Scrum Master and improving operational efficiency.
+
+### Data Analyst at Digikala
+
+##### Jul 2019 - Apr 2021
+
+- Proposed a Profit Contribution (PC2) calculation model aimed at providing insights for optimizing operational costs and boosting revenue.
+- Developed a discount optimization model and its accompanying data pipeline utilizing Python, PowerBI, and SQL Server, resulting in providing enhanced recommendations to the business for setting optimal discounts, thereby increasing revenue.
+
+### Business Intelligence Analyst at BlueBitSoft
+
+##### Jun 2020 - Sep 2020
+
+###### Part-time, Remote
+
+- Developed and enhanced visualization dashboards in PowerBI to deliver actionable managerial insights.
 
 # Teaching & Research Experience
 
