@@ -6,16 +6,16 @@
 
 main:
   - title: "Publications"
-    url: /academic-portfolio/publications/
+    url: /publications/
 
   - title: "CV"
-    url: /academic-portfolio/cv/
+    url: /cv/
 
   - title: "Personal Projects"
-    url: /academic-portfolio/portfolio/
+    url: /portfolio/
 
   - title: "Blog Posts"
-    url: /academic-portfolio/year-archive/
+    url: /year-archive/
 
   # - title: "Teaching"
   #   url: /teaching/

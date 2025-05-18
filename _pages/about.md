@@ -19,10 +19,10 @@ Following the completion of my Master’s degree, I fulfilled my **2-year manda
 
 **Explore Further:**
 
-- [Curriculum Vitae](/academic-portfolio/cv)
-- [Publications](/academic-portfolio/publications)
-- [Personal Projects](/academic-portfolio/portfolio)
-- [Blogs](/academic-portfolio/year-archive)
+- [Curriculum Vitae](/cv)
+- [Publications](/publications)
+- [Personal Projects](/portfolio)
+- [Blogs](/year-archive)
 
 **Contact Me:**  
 [Email](mailto:shayan.shafiee.moghadam@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shayan-shafiee-moghadam) | [GitHub](https://github.com/shayansm2)
